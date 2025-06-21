@@ -221,9 +221,7 @@ Mọi đóng góp đều được chào đón!
 4. 📤 Push to branch (`git push origin feature/AmazingFeature`)
 5. 🔃 Tạo Pull Request
 
-## 📄 License
 
-Dự án này được phân phối dưới **MIT License** - xem file [LICENSE](LICENSE) để biết thêm chi tiết.
 
 ---
 
